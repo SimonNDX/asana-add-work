@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana_0._1.Properties.Resources.resources
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\Asana 0.1.exe.config
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\Asana 0.1.exe
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\Asana 0.1.pdb
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\RestSharp.dll
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\RestSharp.xml
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.csproj.CopyComplete
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.exe
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.pdb
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana_0._1.Puttask.resources
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\Asana 0.1.exe.manifest
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\bin\Debug\Asana 0.1.application
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.exe.manifest
+C:\Users\User\source\repos\Asana 0.1\Asana 0.1\obj\Debug\Asana 0.1.application
